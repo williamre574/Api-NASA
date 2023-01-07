@@ -133,8 +133,6 @@ If you have some time left and want to go a little bit further, here are some fe
 
 ## Submission ⌛
 
-The technical test will be enable today Wednesday 10/19 at 5:00pm and the due date to upload your project is this Friday 10/21 at 5:00pm.
-
 Once you complete the test, push all the project to **your own repository and make it public** and send to us your repository link to nlara@origencorp.net or hello@origencorp.net before the time and deadline so that we can clone your project. We will later be scheduling the day and time to conduct the technical interview.
 
  
