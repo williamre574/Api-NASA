@@ -73,7 +73,7 @@ From your code, you can access to the API at `https://images-api.nasa.gov/` or `
 
 -  `/popular.json`
 
--  `/search?q=&page=&media_type=,,&year_start=&year_end=`
+-  `/search?q=earth&page=1&media_type=image,video,audio&year_start=1935&year_end=1980`
 
   
 
