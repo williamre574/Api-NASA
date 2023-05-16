@@ -64,7 +64,8 @@ The **NASA - api** contains all images and videos you will be using, so please, 
 
   
 
-From your code, you can access to the API at `https://images-api.nasa.gov/` as a main URL and as hint you can use:
+From your code, you can access to the API at `https://images-api.nasa.gov/` or `https://images-assets.nasa.gov` as a main URL and as hint you can use:
+
 
   
 
