@@ -1,0 +1,44 @@
+<div *ngIf="errorMessage" class="error-message">
+  {{ errorMessage }}
+</div>
+<div class="search-container">
+  <form (ngSubmit)="search()">
+    <mat-form-field appearance="fill">
+      <mat-label>Buscador NASA API</mat-label>
+      <input matInput [(ngModel)]="searchTerm" name="searchTerm">
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Año de Inicio</mat-label>
+      <input matInput type="number" [(ngModel)]="yearStart" name="yearStart">
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Año de Fin</mat-label>
+      <input matInput type="number" [(ngModel)]="yearEnd" name="yearEnd">
+    </mat-form-field>
+    <button mat-raised-button color="primary" type="submit">Buscar</button>
+    <div class="filtros">
+      <mat-checkbox [(ngModel)]="includeImages" name="includeImages">Imágenes</mat-checkbox>
+      <mat-checkbox [(ngModel)]="includeVideos" name="includeVideos">Videos</mat-checkbox>
+      <button mat-raised-button color="accent" type="button" (click)="loadPopular()">Populares</button>
+      <button mat-raised-button color="warn" type="button" (click)="loadRecent()">Recientes</button>
+    </div>
+    
+  </form>
+</div>
+
+<div class="cards-container">
+  <mat-card *ngFor="let item of filteredResults" class="example-card">
+    <mat-card-header>
+      <mat-card-title>{{ item.data[0].title }}</mat-card-title>
+      <mat-card-subtitle>{{ item.data[0].center }} - {{ item.data[0].date_created | date:'medium' }}</mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image *ngIf="item.links && item.links[0].href" [src]="item.links[0].href" alt="{{ item.data[0].title }}">
+    <mat-card-content>
+      <p>{{ item.data[0].description }}</p>
+      <p><strong>Media Type:</strong> {{ item.data[0].media_type }}</p>
+      <p><strong>NASA ID:</strong> {{ item.data[0].nasa_id }}</p>
+      <p><strong>Keywords:</strong> {{ item.data[0].keywords.join(', ') }}</p>
+    </mat-card-content>
+  
+  </mat-card>
+</div>

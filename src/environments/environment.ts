@@ -1,9 +1,12 @@
 // This file can be replaced during build by using the `fileReplacements` array.
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
-
+//apollo%2011...
 export const environment = {
-  production: false
+  production: false,
+  getSearch: "https://images-api.nasa.gov/search",
+  getAsset: "https://images-api.nasa.gov/asset/as11-40-5874",
+  getMeta: "https://images-assets.nasa.gov/image/as11-40-5874/metadata.json"
 };
 
 /*

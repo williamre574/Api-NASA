@@ -1,0 +1,30 @@
+<ng-container *ngIf="showSidenav">
+  <p>
+    <mat-toolbar color="primary">
+      <button (click)="opened = !opened" mat-icon-button aria-label="Toggle sidenav">
+        <mat-icon>menu</mat-icon>
+      </button>
+      <span>Aplicacion de la nasa</span>
+      <span class="example-spacer"></span>
+      <button mat-button color="white" (click)="logout()">
+        <mat-icon>exit_to_app</mat-icon>
+        Cerrar Sesión
+      </button>
+    </mat-toolbar>
+  </p>
+  <mat-sidenav-container>
+    <mat-sidenav [(opened)]="opened" mode="side">
+      <mat-list>
+        <mat-list-item><button mat-button color="primary" routerLink="/dashboard">Busqueda</button></mat-list-item>
+        <mat-list-item><button mat-button color="primary" routerLink="/list">Registro</button></mat-list-item>
+      </mat-list>
+    </mat-sidenav>
+    <mat-sidenav-content>
+      <router-outlet></router-outlet>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+</ng-container>
+
+<ng-container *ngIf="!showSidenav">
+  <router-outlet></router-outlet>
+</ng-container>

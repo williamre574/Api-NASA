@@ -1,0 +1,2896 @@
+{
+  "collection": {
+    "version": "1.0",
+    "href": "https://images-api.nasa.gov/asset/?orderby=recent",
+    "items": [
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e547756/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-14T00:00:00Z",
+            "description": "iss071e547756 (Aug. 14, 2024) --- NASA astronaut Suni Williams services a spacesuit inside the International Space Station's Quest airlock.",
+            "description_508": "918C9555.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e547756",
+            "title": "iss071e547756"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e547756/iss071e547756~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e549503/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-27T00:00:00Z",
+            "description": "iss071e549503 (Aug. 27, 2024) --- NASA astronaut Butch Wilmore removes the carbon dioxide removal assembly and its components, advanced life support hardware, installed in the Tranquility module's Air Revitalization Rack for maintenance.",
+            "description_508": "736B9970.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e549503",
+            "title": "iss071e549503"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e549503/iss071e549503~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e549501/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-26T00:00:00Z",
+            "description": "iss071e549501 (Aug. 26, 2024) --- NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson replaces experiment hardware in the Combustion Integrated Rack located aboard the International Space Station's Destiny laboratory module. The hardware replacement work was for the SoFIE-MIST investigation that is exploring ways to design safer materials for future space facilities and determine the best methods for extinguishing fires in space.",
+            "description_508": "736B9968.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e549501",
+            "title": "iss071e549501"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e549501/iss071e549501~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e547737/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-14T00:00:00Z",
+            "description": "iss071e547737 (Aug. 14, 2024) --- NASA astronauts Matthew Dominick and Tracy C. Dyson, both Expedition 71 Flight Engineers, review maintenance procedures on computer tablets inside the International Space Station's Destiny laboratory module.",
+            "description_508": "918C9536.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e547737",
+            "title": "iss071e547737"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e547737/iss071e547737~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e489454/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-15T00:00:00Z",
+            "description": "iss071e489454 (Aug. 15, 2024) --- Rathod's Island on Pakistan's Arabian Sea coast is pictured from the International Space Station as it orbited 257 miles above.",
+            "description_508": "919D3773.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e489454",
+            "title": "iss071e489454"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e489454/iss071e489454~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e489468/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-17T00:00:00Z",
+            "description": "iss071e489468 (Aug. 17, 2024) --- The Progress 89 cargo craft approaches the International Space Station above Earth's horizon in this photograph from the orbital outpost as it soared 257 miles above the Philippine Sea.",
+            "description_508": "D4_2071157_20240817T052420_R_2024-08-17 05-24-25.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e489468",
+            "title": "iss071e489468"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e489468/iss071e489468~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e024307 (3)/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-04-03T00:00:00Z",
+            "description": "jsc2024e024307 (April 3, 2024) -- Gateway electric field validation tests for the Gateway communication and tracking system antennas. Photo Credit: NASA/Robert Markowitz",
+            "keywords": ["Artemis", "Gateway"],
+            "location": "NASA's Johnson Space Center",
+            "media_type": "image",
+            "nasa_id": "jsc2024e024307 (3)",
+            "photographer": "ROBERT MARKOWITZ  NASA-JSC",
+            "title": "Earth to Gateway: Electric Field Tests Enhance Lunar Communication "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e024307 (3)/jsc2024e024307 (3)~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e024308 (2)/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-04-03T00:00:00Z",
+            "description": "jsc2024e024308 (April 3, 2024) -- Gateway electric field validation tests for the Gateway communication and tracking system antennas. Photo Credit: NASA/Robert Markowitz",
+            "keywords": ["Artemis", "Gateway"],
+            "location": "NASA's Johnson Space Center",
+            "media_type": "image",
+            "nasa_id": "jsc2024e024308 (2)",
+            "photographer": "ROBERT MARKOWITZ  NASA-JSC",
+            "title": "Earth to Gateway: Electric Field Tests Enhance Lunar Communication"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e024308 (2)/jsc2024e024308 (2)~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e044856 (1)/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-01T00:00:00Z",
+            "description": "jsc2024e044856 (July 1, 2024) -- Two engineers in cleanroom suits work on the Power and Propulsion Element at Maxar Space Systems in Palo Alto, California. Photo Credit: Maxar Space Systems ",
+            "keywords": ["Gateway", "Artemis"],
+            "location": "Palo Alto, CA",
+            "media_type": "image",
+            "nasa_id": "jsc2024e044856 (1)",
+            "photographer": "Maxar Space Systems",
+            "title": "Gateway: Energizing Exploration"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e044856 (1)/jsc2024e044856 (1)~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/video/323_SS101-ProteinCrystalGrowth/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-27T00:00:00Z",
+            "description": "The International Space Station could help develop new and better drugs for people on Earth, thanks to protein crystal growth, or PCG, on board.",
+            "keywords": [
+              "ScienceCasts",
+              "ISS",
+              "International Space Station",
+              "protein crystals",
+              "microgravity",
+              "drug delivery",
+              "drug development",
+              "biochemistry"
+            ],
+            "location": "NASA ScienceCasts",
+            "media_type": "video",
+            "nasa_id": "323_SS101-ProteinCrystalGrowth",
+            "title": "NASA ScienceCasts: Station Science 101 - Growing Space Crystals to Improve Medicine"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/video/323_SS101-ProteinCrystalGrowth/323_SS101-ProteinCrystalGrowth~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          },
+          {
+            "href": "https://images-assets.nasa.gov/video/323_SS101-ProteinCrystalGrowth/323_SS101-ProteinCrystalGrowth.srt",
+            "rel": "captions"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e516877/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-18T00:00:00Z",
+            "description": "iss071e516877 (Aug. 18, 2024) --- Denver, Colorado, the Centennial State's capital city with a population of over 715,000, and its suburbs along the South Platte River are pictured from the International Space Station as it orbited 260 miles above.",
+            "description_508": "919D5548.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e516877",
+            "title": "iss071e516877"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e516877/iss071e516877~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e547724/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-14T00:00:00Z",
+            "description": "iss071e547724 (Aug. 14, 2024) --- NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson smiles for a portrait in the vestibule between the Kibo laboratory module and the Harmony module aboard the International Space Station.",
+            "description_508": "918C9523.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e547724",
+            "title": "iss071e547724"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e547724/iss071e547724~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e488809/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-14T00:00:00Z",
+            "description": "iss071e488809 (Aug. 14, 2024) --- Mexicali, the capital of the Mexican state of Baja California in the fertile Imperial Valley with a population of just over 1,000,000 bordering the American state of California, is pictured from the International Space Station as it orbited 258 miles above.",
+            "description_508": "919D3128.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e488809",
+            "title": "iss071e488809"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e488809/iss071e488809~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e523798/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-07T00:00:00Z",
+            "description": "iss071e523798 (Aug. 7, 2024) ---  The Milky Way is pictured from the International Space Station near the top of this long-duration photograph with a camera programmed for high sensitivity.",
+            "description_508": "738D6468.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e523798",
+            "title": "iss071e523798"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e523798/iss071e523798~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e488644/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-13T00:00:00Z",
+            "description": "iss071e488644 (Aug. 13, 2024) --- The seaport of Barranquilla, Colombia, on the Magdalena River that leads into the Carribean Sea, is pictured from the International Space Station as it orbited 257 miles above the South American nation.",
+            "description_508": "919D2963.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e488644",
+            "title": "iss071e488644"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e488644/iss071e488644~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e547719/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-14T00:00:00Z",
+            "description": "iss071e547719 (Aug. 14, 2024) --- NASA astronaut and Expedition 71 Flight Engineer Mike Barratt transfers cargo bags delivered aboard the Northrop Grumman Cygnus space freighter into the International Space Station's Harmony module.",
+            "description_508": "918C9518.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e547719",
+            "title": "iss071e547719"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e547719/iss071e547719~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e547731/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-14T00:00:00Z",
+            "description": "iss071e547731 (Aug. 14, 2024) --- NASA astronaut and Expedition 71 Flight Engineer Matthew Dominick reviews life support maintenance procedures on a computer tablet inside the International Space Station's Destiny laboratory module.",
+            "description_508": "918C9530.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e547731",
+            "title": "iss071e547731"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e547731/iss071e547731~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e488058/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-11T00:00:00Z",
+            "description": "iss071e488058 (Aug. 11, 2024) --- The Hague and Rotterdam, cities next to the Rhine–Meuse–Scheldt river delta in Netherlands on the coast of the North Sea, are pictured from the International Space Station as it orbited 263 miles above Northern Europe.",
+            "description_508": "919D1758.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e488058",
+            "title": "iss071e488058"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e488058/iss071e488058~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055760/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-25T00:00:00Z",
+            "description": "jsc2024e055760 (July 26, 2024) --  Tiffany Travis, Strategic Communications Manager with the Gateway Program, shares the marvels of Gateway with event attendees during EAA AirVenture Oshkosh 2024. Photo Credit: NASA/Andrew Carlsen  ",
+            "keywords": ["Artemis", "Gateway", "EAA AirVenture", "Oshkosh"],
+            "media_type": "image",
+            "nasa_id": "jsc2024e055760",
+            "photographer": "Andrew Carlsen",
+            "title": "Gateway at EAA AirVenture Oshkosh 2024 "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055760/jsc2024e055760~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055768/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-26T00:00:00Z",
+            "description": "jsc2024e055768 (July 26, 2024) -- The panel for \"The Historic Artemis II Mission\" forum at EAA AirVenture Oshkosh 2024, featuring NASA experts including Dr. Jon Olansen, Gateway Program Manager (center). The discussion covered the Artemis II mission's significance in lunar exploration and the groundbreaking technologies that will enable future missions to the Moon and beyond. Photo Credit: NASA/Andrew Carlsen",
+            "keywords": ["Artemis", "Gateway", "Oshkosh", "EAA AirVenture"],
+            "location": "Wittman Regional Airport, Oshkosh, WI",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055768",
+            "photographer": "Andrew Carlsen",
+            "title": "Artemis II Mission Panel at EAA AirVenture Oshkosh 2024"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055768/jsc2024e055768~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055762/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-26T00:00:00Z",
+            "description": "jsc2024e055762 (July 26, 2024) -- Dr. Jon Olansen, Gateway Program Manager, shares insights about Gateway during the \"Living the Lunar Life\" forum at EAA AirVenture 2024. The panel, held on July 26, focused on the intricacies of lunar living as NASA prepares to undertake unprecedented exploration of the Moon with Artemis. Photo Credit: NASA/Andrew Carlsen  ",
+            "keywords": ["Gateway", "Artemis", "Oshkosh", "EAA AirVenture"],
+            "location": "Wittman Regional Airport, Oshkosh, WI",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055762",
+            "photographer": "Andrew Carlsen",
+            "title": "Jon Olansen Discusses Gateway at EAA AirVenture Oshkosh "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055762/jsc2024e055762~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055766/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-26T00:00:00Z",
+            "description": " jsc2024e055766 (July 26, 2024) -- Dr. Jon Olansen, Gateway Program Manager, shares insights during \"The Historic Artemis II Mission\" forum held at EAA AirVenture Oshkosh 2024. The panel, held at the Theater in the Woods on July 26, discussed NASA's upcoming Artemis II mission and the innovative technologies enabling humanity's return to the Moon. Photo Credit: NASA/Andrew Carlsen  ",
+            "keywords": ["Artemis", "Gateway", "Oshkosh", "EAA AirVenture"],
+            "location": "Wittman Regional Airport, Oshkosh, WI",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055766",
+            "photographer": "Andrew Carlsen",
+            "title": "Gateway Insights with Jon Olansen at EAA AirVenture Oshkosh 2024  jsc2024e055766"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055766/jsc2024e055766~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055770/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-26T00:00:00Z",
+            "description": " jsc2024e055770 (July 26, 2024) -- Dr. Jon Olansen, Gateway Program Manager, shares insights during \"The Historic Artemis II Mission\" forum held at EAA AirVenture Oshkosh 2024. The panel, held at the Theater in the Woods on July 26, discussed NASA's upcoming Artemis II mission and the innovative technologies enabling humanity's return to the Moon. Photo Credit: NASA/Andrew Carlsen  ",
+            "keywords": ["Gateway", "Artemis", "Oshkosh", "EAA AirVenture"],
+            "location": "Wittman Regional Airport, Oshkosh, WI",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055770",
+            "photographer": "Andrew Carlsen",
+            "title": "Gateway Insights with Jon Olansen at EAA AirVenture Oshkosh 2024 "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055770/jsc2024e055770~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055771/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-26T00:00:00Z",
+            "description": "jsc2024e055771 (July 26, 2024) -- Dr. Jon Olansen engages the audience at the Theater in the Woods during \"The Historic Artemis II Mission\" forum held at EAA AirVenture Oshkosh 2024. As the Gateway Program Manager, Olansen highlights Gateway's pivotal role in supporting the Artemis era of lunar exploration. Photo Credit: NASA/Andrew Carlsen  ",
+            "keywords": ["Artemis", "Gateway", "Oshkosh", "EAA AirVenture"],
+            "location": "Wittman Regional Airport, Oshkosh, WI",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055771",
+            "photographer": "Andrew Carlsen ",
+            "title": "Jon Olansen Highlights Gateway's Role at EAA AirVenture 2024 "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055771/jsc2024e055771~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055764/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-26T00:00:00Z",
+            "description": "jsc2024e055764 (July 26, 2024) -- Dr. Jon Olansen discusses lunar habitation during the \"Living the Lunar Life\" forum at EAA AirVenture Oshkosh 2024. As Gateway Program Manager, Olansen highlights the innovative technologies and mission planning essential for living and working in the harsh environment of deep space. Photo Credit: NASA/Andrew Carlsen  ",
+            "keywords": ["Gateway", "Artemis", "Oshkosh", "EAA AirVenture"],
+            "location": "Wittman Regional Airport, Oshkosh, WI",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055764",
+            "photographer": "Andrew Carlsen",
+            "title": "Gateway Program Manager on Gateway lunar space station  "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055764/jsc2024e055764~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055763/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-26T00:00:00Z",
+            "description": "jsc2024e055763 (July 26, 2024) -- Dr. Jon Olansen, Gateway Program Manager, shares insights about Gateway during the \"Living the Lunar Life\" forum at EAA AirVenture 2024. The panel, held on July 26, focused on the intricacies of lunar living as NASA prepares to undertake unprecedented exploration of the Moon with Artemis. Photo Credit: NASA/Andrew Carlsen  ",
+            "keywords": ["Artemis", "Gateway", "Oshkosh", "EAA AirVenture"],
+            "location": "Wittman Regional Airport, Oshkosh, WI",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055763",
+            "photographer": "Andrew Carlsen",
+            "title": "Jon Olansen Discusses Gateway at EAA AirVenture Oshkosh "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055763/jsc2024e055763~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055759/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-23T00:00:00Z",
+            "description": " jsc2024e055759 (July 23, 2024) -- NASA Administrator Bill Nelson views of model of Gateway during EAA AirVenture Oshkosh 2024. The Gateway lunar space station will play a crucial role in NASA's Artemis missions.  Photo Credit: NASA/Andrew Carlsen  ",
+            "keywords": [
+              "Gateway",
+              "Artemis",
+              "Oshkosh",
+              "EAA AirVenture",
+              "Administrator"
+            ],
+            "location": "Wittman Regional Airport, Oshkosh, WI",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055759",
+            "photographer": "Andrew Carlsen",
+            "title": "NASA Administrator Bill Nelson views model of Gateway at EAA AirVenture Oshkosh 2024"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055759/jsc2024e055759~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055758/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-26T00:00:00Z",
+            "description": " jsc2024e055758 (July 26, 2024) --  Emma Lehnhardt, Gateway Program Planning and Control Manager, shares the wonders of Gateway with event attendees during EAA AirVenture Oshkosh 2024. Photo Credit: NASA/Andrew Carlsen  ",
+            "keywords": ["Artemis", "Gateway", "EAA AirVenture", "Oshkosh"],
+            "location": "Wittman Regional Airport, Oshkosh, WI",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055758",
+            "photographer": "Andrew Carlsen",
+            "title": "Model of Gateway at EAA AirVenture Oshkosh 2024"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055758/jsc2024e055758~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055767/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-26T00:00:00Z",
+            "description": "jsc2024e055767 (July 26, 2024) -- The panel for \"The Historic Artemis II Mission\" forum at EAA AirVenture Oshkosh 2024, featuring NASA experts including Dr. Jon Olansen, Gateway Program Manager (center). The discussion covered the Artemis II mission's significance in lunar exploration and the groundbreaking technologies that will enable future missions to the Moon and beyond. Photo Credit: NASA/Andrew Carlsen  ",
+            "keywords": ["Artemis", "Gateway", "EAA AirVenture", "Oshkosh"],
+            "location": "Wittman Regional Airport, Oshkosh, WI",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055767",
+            "photographer": "Andrew Carlsen",
+            "title": "Artemis II Mission Panel at EAA AirVenture Oshkosh 2024"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055767/jsc2024e055767~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055761/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-26T00:00:00Z",
+            "description": "jsc2024e055761 (July 26, 2024) -- A display of Gateway patches at the NASA Pavilion during EAA AirVenture Oshkosh 2024. Gateway highlights at NASA’s exhibition space include a detailed 1:100th scale model of Gateway, a selfie station for Moon photos, and exclusive Gateway stickers, pins, and patches. Photo Credit: NASA/Andrew Carlsen  ",
+            "keywords": ["Gateway", "Artemis", "Oshkosh", "EAA AirVenture"],
+            "location": "Wittman Regional Airport, Oshkosh, WI",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055761",
+            "photographer": "Andrew Carlsen",
+            "title": "Gateway Program Patches on Display at EAA AirVenture Oshkosh 2024"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055761/jsc2024e055761~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/video/JPL-20240827-CLIPPRf-0001-Meet Europa Clipper Solar Array Wings/collection.json",
+        "data": [
+          {
+            "center": "JPL",
+            "date_created": "2024-08-27T00:00:00Z",
+            "description": "NASA’s Europa Clipper spacecraft is getting ready for launch, and its massive solar arrays were recently installed. These “wings” are so large because Jupiter receives only 3% to 4% of the sunlight Earth gets, and the arrays need to be able to collect enough sunlight to power the spacecraft through its mission.   With the arrays deployed, the spacecraft spans more than 100 feet (30.5 meters), which is nearly the distance from the Statue of Liberty’s toes to her head. The arrays will help the spacecraft make its 1.8 billion-mile (2.6 billion-kilometer) journey to Jupiter and power science instruments, electronics, heaters, and other subsystems during the years orbiting Jupiter and flying by the moon Europa. They also support six antennas that stick out perpendicularly from the panels. These antennas are for the REASON (Radar for Europa Assessment and Sounding: Ocean to Near-surface) instrument, which will probe for water within and beneath Europa’s ice.   Both wings were installed at NASA’s Kennedy Space Center in Florida in collaboration with the John Hopkins University Applied Physics Laboratory and Airbus Netherlands. The solar arrays are so large only one can be installed and tested at a time. Both will be folded and stowed for launch, then will fully deploy in space.   Scientists believe the moon Europa has an ocean under its icy crust that may have conditions suitable for supporting life. Europa Clipper is expected to launch in October 2024 from Kennedy Space Center and arrive in the Jovian system in 2030.  For more information on the mission go to: https://europa.nasa.gov/.  Credit: NASA/JPL-Caltech/KSC/APL/Airbus ",
+            "description_508": "NASA’s Europa Clipper spacecraft is getting ready for launch, and its massive solar arrays were recently installed. These “wings” are so large because Jupiter receives only 3% to 4% of the sunlight Earth gets, and the arrays need to be able to collect enough sunlight to power the spacecraft through its mission.   With the arrays deployed, the spacecraft spans more than 100 feet (30.5 meters), which is nearly the distance from the Statue of Liberty’s toes to her head. The arrays will help the spacecraft make its 1.8 billion-mile (2.6 billion-kilometer) journey to Jupiter and power science instruments, electronics, heaters, and other subsystems during the years orbiting Jupiter and flying by the moon Europa. They also support six antennas that stick out perpendicularly from the panels. These antennas are for the REASON (Radar for Europa Assessment and Sounding: Ocean to Near-surface) instrument, which will probe for water within and beneath Europa’s ice.   Both wings were installed at NASA’s Kennedy Space Center in Florida in collaboration with the John Hopkins University Applied Physics Laboratory and Airbus Netherlands. The solar arrays are so large only one can be installed and tested at a time. Both will be folded and stowed for launch, then will fully deploy in space.   Scientists believe the moon Europa has an ocean under its icy crust that may have conditions suitable for supporting life. Europa Clipper is expected to launch in October 2024 from Kennedy Space Center and arrive in the Jovian system in 2030.  For more information on the mission go to: https://europa.nasa.gov/.  Credit: NASA/JPL-Caltech/KSC/APL/Airbus",
+            "keywords": [
+              "NASA",
+              "Jet Propulsion Laboratory",
+              "JPL",
+              "Kennedy Space Center",
+              "KSC",
+              "Europa Clipper",
+              "Europa",
+              "Jupiter",
+              "solar panels",
+              "solar power for space",
+              "satellite",
+              "animations",
+              "moon",
+              "ice",
+              "searching for life",
+              "exploration",
+              "tech",
+              "technology",
+              "robotics",
+              "engineering",
+              "space",
+              "science",
+              "testing",
+              "astrobiology",
+              "surveying",
+              "icy moon",
+              "ocean moon",
+              "ice",
+              "life",
+              "planets",
+              "mission",
+              "universe",
+              "solar system",
+              "chemistry",
+              "energy",
+              "ocean world",
+              "Solar Array",
+              "TJ Lee",
+              "solar panels for space",
+              "APL",
+              "Applied Physics Laboratory",
+              "Johns Hopkins",
+              "assembly test and launch operations",
+              "ATLO",
+              "building spacecxraft",
+              "building a spacecraft",
+              "Airbus"
+            ],
+            "media_type": "video",
+            "nasa_id": "JPL-20240827-CLIPPRf-0001-Meet Europa Clipper Solar Array Wings",
+            "title": "Meet Europa Clipper’s Solar Array ‘Wings’"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/video/JPL-20240827-CLIPPRf-0001-Meet Europa Clipper Solar Array Wings/JPL-20240827-CLIPPRf-0001-Meet Europa Clipper Solar Array Wings~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          },
+          {
+            "href": "https://images-assets.nasa.gov/video/JPL-20240827-CLIPPRf-0001-Meet Europa Clipper Solar Array Wings/JPL-20240827-CLIPPRf-0001-Meet Europa Clipper Solar Array Wings.srt",
+            "rel": "captions"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055756/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-25T00:00:00Z",
+            "description": " jsc2024e055756 (July 25, 2024) -- NASA panelists Dionne Hernandez-Lugo, Jackelynne Silva-Martinez, A.C. Charania, and Astronaut Stan Love discuss the Artemis program and Gateway's role in lunar exploration during the \"Exploring the Moon: The Artemis Generation\" panel at San Diego Comic-Con 2024. The event captivated a full house of space exploration enthusiasts. Photo Credit: NASA",
+            "keywords": ["Gateway", "Artemis"],
+            "location": "San Diego Convention Center, San Diego, CA",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055756",
+            "title": "NASA Experts Share Artemis Insights at San Diego Comic-Con 2024"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055756/jsc2024e055756~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055754/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-25T00:00:00Z",
+            "description": "jsc2024e055754 (July 25, 2024) -- Dionne Hernandez-Lugo of the Gateway Program speaks about the pivotal role Gateway will play in the Artemis missions during the \"Exploring the Moon: The Artemis Generation\" panel at San Diego Comic-Con 2024. Photo Credit: NASA",
+            "keywords": ["Gateway", "Artemis"],
+            "location": "San Diego Convention Center, San Diego, CA",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055754",
+            "title": "Dionne Hernandez-Lugo Highlights Gateway's Role in Artemis "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055754/jsc2024e055754~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055757/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-25T00:00:00Z",
+            "description": "jsc2024e055757 (July 25, 2024) -- Jackelynne Silva-Martinez of NASA Human Health and Performance shares insights on the health and safety measures for astronauts in the Artemis missions during the \"Exploring the Moon: The Artemis Generation\" panel at San Diego Comic-Con 2024. Photo Credit: NASA",
+            "location": "San Diego Convention Center, San Diego, CA",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055757",
+            "title": "Engaging Discussions on Artemis Era of Lunar Exploration at San Diego Comic-Con 2024 "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055757/jsc2024e055757~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055755/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-25T00:00:00Z",
+            "description": "jsc2024e055755 (July 25, 2024) -- Location: San Diego Convention Center, San Diego, CA Subject: Coverage of NASA panel Exploring the Moon: the Artemis Generation with NASA’s chief technologist, NASA astronaut Stan Love, and representatives from the Artemis campaign and Gateway lunar space station. Photo Credit: NASA",
+            "keywords": ["Artemis", "Gateway"],
+            "location": "San Diego Convention Center, San Diego, CA",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055755",
+            "title": "Dionne Hernandez-Lugo Highlights Gateway's Role in Artemis"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055755/jsc2024e055755~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/jsc2024e055753/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-25T00:00:00Z",
+            "description": "jsc2024e055753 (July 25, 2024) -- Dionne Hernandez-Lugo of the Gateway Program speaks about the pivotal role Gateway will play in the Artemis missions during the \"Exploring the Moon: The Artemis Generation\" panel at San Diego Comic-Con 2024. Photo Credit: NASA",
+            "keywords": ["Gateway", "Artemis"],
+            "location": "San Diego Convention Center, San Diego, CA",
+            "media_type": "image",
+            "nasa_id": "jsc2024e055753",
+            "title": "Dionne Hernandez-Lugo Highlights Gateway's Role in Artemis "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/jsc2024e055753/jsc2024e055753~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/video/Envisioning the Next Generation of Human Presence in Low Earth Orbit/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-26T00:00:00Z",
+            "description": "NASA’s human spaceflight missions have steadily built on each other, leading us to a continuous human presence in low Earth orbit for 23 years. Now, as we stand on the cusp of a new era of human spaceflight, NASA is calling for feedback on what the agency’s goals and objectives should be for the low Earth orbit microgravity environment. The agency will utilize future commercial space stations to advance microgravity science, technology, and exploration.",
+            "keywords": [
+              "NASA",
+              "Low Earth Orbit",
+              "LEO Microgravity Strategy"
+            ],
+            "media_type": "video",
+            "nasa_id": "Envisioning the Next Generation of Human Presence in Low Earth Orbit",
+            "title": "Envisioning the Next Generation of Human Presence in Low Earth Orbit"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/video/Envisioning the Next Generation of Human Presence in Low Earth Orbit/Envisioning the Next Generation of Human Presence in Low Earth Orbit~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          },
+          {
+            "href": "https://images-assets.nasa.gov/video/Envisioning the Next Generation of Human Presence in Low Earth Orbit/Envisioning the Next Generation of Human Presence in Low Earth Orbit.srt",
+            "rel": "captions"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e547275/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "iss071e547275 (Aug. 22, 2024) --- The last rays of an orbital sunset fade below Earth's horizon illuminating the atmosphere in this photograph from the International Space Station as it soared 267 miles above the South Atlantic Ocean in between the tips of South America and South Africa.",
+            "description_508": "D4_2067548_20240822T202934_R_2024-08-22 20-29-40.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e547275",
+            "title": "iss071e547275"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e547275/iss071e547275~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e523320/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "iss071e523320 (Aug. 21, 2024) --- NASA astronauts (from left) Butch Wilmore, Commander for Boeing's Crew Flight Test, and Matthew Dominick, Expedition 71 Flight Engineer, check CubeSat configurations inside the Small Satellite Orbital Deployer aboard the International Space Station's Kibo laboratory module.",
+            "description_508": "739C0124.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e523320",
+            "title": "iss071e523320"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e523320/iss071e523320~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e547029/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-23T00:00:00Z",
+            "description": "iss071e547029 (Aug. 23, 2024) --- NASA astronaut and Boeing's Crew Flight Test Pilot Suni Williams smiles for a portrait in the middle of maintenance work aboard the International Space Station's Kibo laboratory module.",
+            "description_508": "738G7257.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e547029",
+            "title": "iss071e547029"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e547029/iss071e547029~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e523401/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "iss071e523401 (Aug. 21, 2024) --- The desert coast of Namibia and the city lights of Johannesburg, South Africa, and surrounding areas on Earth's horizon are pictured from the International Space Station as it soared 263 miles above the Atlantic Ocean in this nighttime photograph.",
+            "description_508": "757N6413.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e523401",
+            "title": "iss071e523401"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e523401/iss071e523401~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e522460/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-20T00:00:00Z",
+            "description": "iss071e522460 (Aug. 20, 2024) --- The dome-shaped Brandburg Massif, near the Atlantic coast of central Namibia, containing Brandberg Mountain, the African nation's highest peak and ancient rock paintings going back at least 2,000 years, is pictured from the International Space Station as it orbited 261 miles above.",
+            "description_508": "919D6670.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e522460",
+            "title": "iss071e522460"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e522460/iss071e522460~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e522679/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-20T00:00:00Z",
+            "description": "iss071e522679 (Aug. 20, 2024) --- Wildfires in South Africa's Great Escarpment near the coast of the Indian Ocean are pictured from the International Space Station as it orbited 263 miles above.",
+            "description_508": "919D6889.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e522679",
+            "title": "iss071e522679"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e522679/iss071e522679~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e523514/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "iss071e523514 (Aug. 22, 2024) --- The Gulf of Capentaria in between Australia's provinces of Northern Territory and Queensland is pictured from the International Space Station as it orbited 260 miles above the nation continent.",
+            "description_508": "D4_2067548_20240822T044501_R_2024-08-22 04-45-02.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e523514",
+            "title": "iss071e523514"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e523514/iss071e523514~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e547354/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-23T00:00:00Z",
+            "description": "iss071e547354 (Aug. 23, 2024) --- NASA astronaut and Boeing's Crew Flight Test Pilot Suni Williams smiles for a portrait in the middle of maintenance work aboard the International Space Station's Kibo laboratory module.",
+            "description_508": "738G7318.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e547354",
+            "title": "iss071e547354"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e547354/iss071e547354~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e547031/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-23T00:00:00Z",
+            "description": "iss071e547031 (Aug. 23, 2024) --- NASA astronaut and Expedition 71 Flight Engineer Matthew Dominick smiles for a portrait in the middle of maintenance work aboard the International Space Station's Kibo laboratory module.",
+            "description_508": "738G7259.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e547031",
+            "title": "iss071e547031"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e547031/iss071e547031~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e547361/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-23T00:00:00Z",
+            "description": "iss071e547361 (Aug. 23, 2024) --- NASA astronauts Matthew Dominick, Expedition 71 Flight Engineer, and Suni Williams, Boeing's Crew Flight Test Pilot, smile for a selfie portrait aboard the International Space Station's Kibo laboratory module.",
+            "description_508": "738G7330.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e547361",
+            "title": "iss071e547361"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e547361/iss071e547361~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/video/KSC-20240821-MH-GEB01-0001-Europa_Clipper_Solar_Array_Deployment_PHSF-M8663/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "Europa Clipper Solar Array Deployment ",
+            "keywords": [
+              "NASA",
+              "National Aeronautical and Space Administration",
+              "KSC",
+              "Kennedy Space CDFetner",
+              "Jet Propulsion Lab",
+              "JPL",
+              "Europa Clipper",
+              "Europa",
+              "Jupiter",
+              "moon",
+              "icy moon",
+              "Johns Hopkins University Applied Pyhsics Laboratory (APL)",
+              "Internal ocean",
+              "LSP"
+            ],
+            "location": "Payload Hazardous Servicing Facility (PHSF)",
+            "media_type": "video",
+            "nasa_id": "KSC-20240821-MH-GEB01-0001-Europa_Clipper_Solar_Array_Deployment_PHSF-M8663",
+            "photographer": "NASA/Glenn Benson",
+            "title": "Europa Clipper Solar Array Deployment ",
+            "album": ["SpaceX_Europa_Clipper"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/video/KSC-20240821-MH-GEB01-0001-Europa_Clipper_Solar_Array_Deployment_PHSF-M8663/KSC-20240821-MH-GEB01-0001-Europa_Clipper_Solar_Array_Deployment_PHSF-M8663~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          },
+          {
+            "href": "https://images-assets.nasa.gov/video/KSC-20240821-MH-GEB01-0001-Europa_Clipper_Solar_Array_Deployment_PHSF-M8663/KSC-20240821-MH-GEB01-0001-Europa_Clipper_Solar_Array_Deployment_PHSF-M8663.vtt",
+            "rel": "captions"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0030/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) identical dual spacecraft are inspected and processed on dollies in a high bay of the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida on Thursday, Aug. 22, 2024. As the first multi-spacecraft orbital science mission to Mars, ESCAPADE’s twin orbiters will take simultaneous observations from different locations around the planet and reveal the real-time response to space weather and how the Martian magnetosphere changes over time.",
+            "keywords": [
+              "Blue Origin",
+              "ESCAPADE",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "LSP",
+              "Launch Services Program",
+              "Mars",
+              "New Glenn",
+              "Rocket Lab",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "U.C. Berkeley",
+              "magnetosphere",
+              "satellites",
+              "solar wind"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240822-PH-KLS01_0030",
+            "photographer": "NASA/Kim Shiflett",
+            "title": "ESCAPADE Unboxed at Astrotech",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0030/KSC-20240822-PH-KLS01_0030~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0022/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) identical dual spacecraft are inspected and processed on dollies in a high bay of the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida on Thursday, Aug. 22, 2024. As the first multi-spacecraft orbital science mission to Mars, ESCAPADE’s twin orbiters will take simultaneous observations from different locations around the planet and reveal the real-time response to space weather and how the Martian magnetosphere changes over time.",
+            "keywords": [
+              "Blue Origin",
+              "ESCAPADE",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "LSP",
+              "Launch Services Program",
+              "Mars",
+              "New Glenn",
+              "Rocket Lab",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "U.C. Berkeley",
+              "magnetosphere",
+              "satellites",
+              "solar wind"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240822-PH-KLS01_0022",
+            "photographer": "NASA/Kim Shiflett",
+            "title": "ESCAPADE Unboxed at Astrotech",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0022/KSC-20240822-PH-KLS01_0022~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0018/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) identical dual spacecraft are inspected and processed on dollies in a high bay of the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida on Thursday, Aug. 22, 2024. As the first multi-spacecraft orbital science mission to Mars, ESCAPADE’s twin orbiters will take simultaneous observations from different locations around the planet and reveal the real-time response to space weather and how the Martian magnetosphere changes over time.",
+            "keywords": [
+              "Blue Origin",
+              "ESCAPADE",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "LSP",
+              "Launch Services Program",
+              "Mars",
+              "New Glenn",
+              "Rocket Lab",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "U.C. Berkeley",
+              "magnetosphere",
+              "satellites",
+              "solar wind"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240822-PH-KLS01_0018",
+            "photographer": "NASA/Kim Shiflett",
+            "title": "ESCAPADE Unboxed at Astrotech",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0018/KSC-20240822-PH-KLS01_0018~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0029/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) identical dual spacecraft are inspected and processed on dollies in a high bay of the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida on Thursday, Aug. 22, 2024. As the first multi-spacecraft orbital science mission to Mars, ESCAPADE’s twin orbiters will take simultaneous observations from different locations around the planet and reveal the real-time response to space weather and how the Martian magnetosphere changes over time.",
+            "keywords": [
+              "Blue Origin",
+              "ESCAPADE",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "LSP",
+              "Launch Services Program",
+              "Mars",
+              "New Glenn",
+              "Rocket Lab",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "U.C. Berkeley",
+              "magnetosphere",
+              "satellites",
+              "solar wind"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240822-PH-KLS01_0029",
+            "photographer": "NASA/Kim Shiflett",
+            "title": "ESCAPADE Unboxed at Astrotech",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0029/KSC-20240822-PH-KLS01_0029~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0033/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) identical dual spacecraft are inspected and processed on dollies in a high bay of the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida on Thursday, Aug. 22, 2024. As the first multi-spacecraft orbital science mission to Mars, ESCAPADE’s twin orbiters will take simultaneous observations from different locations around the planet and reveal the real-time response to space weather and how the Martian magnetosphere changes over time.",
+            "keywords": [
+              "Blue Origin",
+              "ESCAPADE",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "LSP",
+              "Launch Services Program",
+              "Mars",
+              "New Glenn",
+              "Rocket Lab",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "U.C. Berkeley",
+              "magnetosphere",
+              "satellites",
+              "solar wind"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240822-PH-KLS01_0033",
+            "photographer": "NASA/Kim Shiflett",
+            "title": "ESCAPADE Unboxed at Astrotech",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0033/KSC-20240822-PH-KLS01_0033~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0013/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) identical dual spacecraft are inspected and processed on dollies in a high bay of the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida on Thursday, Aug. 22, 2024. As the first multi-spacecraft orbital science mission to Mars, ESCAPADE’s twin orbiters will take simultaneous observations from different locations around the planet and reveal the real-time response to space weather and how the Martian magnetosphere changes over time.",
+            "keywords": [
+              "Blue Origin",
+              "ESCAPADE",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "LSP",
+              "Launch Services Program",
+              "Mars",
+              "New Glenn",
+              "Rocket Lab",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "U.C. Berkeley",
+              "magnetosphere",
+              "satellites",
+              "solar wind"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240822-PH-KLS01_0013",
+            "photographer": "NASA/Kim Shiflett",
+            "title": "ESCAPADE Unboxed at Astrotech",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0013/KSC-20240822-PH-KLS01_0013~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0007/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) identical dual spacecraft are inspected and processed on dollies in a high bay of the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida on Thursday, Aug. 22, 2024. As the first multi-spacecraft orbital science mission to Mars, ESCAPADE’s twin orbiters will take simultaneous observations from different locations around the planet and reveal the real-time response to space weather and how the Martian magnetosphere changes over time.",
+            "keywords": [
+              "Blue Origin",
+              "ESCAPADE",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "LSP",
+              "Launch Services Program",
+              "Mars",
+              "New Glenn",
+              "Rocket Lab",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "U.C. Berkeley",
+              "magnetosphere",
+              "satellites",
+              "solar wind"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240822-PH-KLS01_0007",
+            "photographer": "NASA/Kim Shiflett",
+            "title": "ESCAPADE Unboxed at Astrotech",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0007/KSC-20240822-PH-KLS01_0007~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0003/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) identical dual spacecraft are inspected and processed on dollies in a high bay of the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida on Thursday, Aug. 22, 2024. As the first multi-spacecraft orbital science mission to Mars, ESCAPADE’s twin orbiters will take simultaneous observations from different locations around the planet and reveal the real-time response to space weather and how the Martian magnetosphere changes over time.",
+            "keywords": [
+              "Blue Origin",
+              "ESCAPADE",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "LSP",
+              "Launch Services Program",
+              "Mars",
+              "New Glenn",
+              "Rocket Lab",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "U.C. Berkeley",
+              "magnetosphere",
+              "satellites",
+              "solar wind"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240822-PH-KLS01_0003",
+            "photographer": "NASA/Kim Shiflett",
+            "title": "ESCAPADE Unboxed at Astrotech",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0003/KSC-20240822-PH-KLS01_0003~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0016/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) identical dual spacecraft are inspected and processed on dollies in a high bay of the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida on Thursday, Aug. 22, 2024. As the first multi-spacecraft orbital science mission to Mars, ESCAPADE’s twin orbiters will take simultaneous observations from different locations around the planet and reveal the real-time response to space weather and how the Martian magnetosphere changes over time.",
+            "keywords": [
+              "Blue Origin",
+              "ESCAPADE",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "LSP",
+              "Launch Services Program",
+              "Mars",
+              "New Glenn",
+              "Rocket Lab",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "U.C. Berkeley",
+              "magnetosphere",
+              "satellites",
+              "solar wind"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240822-PH-KLS01_0016",
+            "photographer": "NASA/Kim Shiflett",
+            "title": "ESCAPADE Unboxed at Astrotech",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0016/KSC-20240822-PH-KLS01_0016~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0001/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) identical dual spacecraft are inspected and processed on dollies in a high bay of the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida on Thursday, Aug. 22, 2024. As the first multi-spacecraft orbital science mission to Mars, ESCAPADE’s twin orbiters will take simultaneous observations from different locations around the planet and reveal the real-time response to space weather and how the Martian magnetosphere changes over time.",
+            "keywords": [
+              "Blue Origin",
+              "ESCAPADE",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "LSP",
+              "Launch Services Program",
+              "Mars",
+              "New Glenn",
+              "Rocket Lab",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "U.C. Berkeley",
+              "magnetosphere",
+              "satellites",
+              "solar wind"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240822-PH-KLS01_0001",
+            "photographer": "NASA/Kim Shiflett",
+            "title": "ESCAPADE Unboxed at Astrotech",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240822-PH-KLS01_0001/KSC-20240822-PH-KLS01_0001~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240818-PH-NLP01_0002/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-18T00:00:00Z",
+            "description": "Two small spacecrafts satellites that make up NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) mission to Mars arrived at Astrotech Space Operations in Titusville, near NASA’s Kennedy Space Center in Florida on Sunday, Aug. 19, 2024. Set to launch from Blue Origin’s New Glenn rocket, the Rocket Lab spacecraft will study the solar wind and how the solar wind interacts with Mars’ magnetic environment and how this interaction drives the planet’s atmospheric escape.",
+            "keywords": [
+              "ESCAPADE",
+              "Mars",
+              "Launch Services Program",
+              "LSP",
+              "U.C. Berkeley",
+              "Rocket Lab",
+              "Blue Origin",
+              "New Glenn",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "magnetosphere",
+              "solar wind",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "twin satellites",
+              "Astrotech Space Operations"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240818-PH-NLP01_0002",
+            "photographer": "NASA/Norman Phelps",
+            "title": "ESCAPADE Unloading",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240818-PH-NLP01_0002/KSC-20240818-PH-NLP01_0002~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240818-PH-NLP01_0001/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-18T00:00:00Z",
+            "description": "Two small spacecrafts satellites that make up NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) mission to Mars arrived at Astrotech Space Operations in Titusville, near NASA’s Kennedy Space Center in Florida on Sunday, Aug. 19, 2024. Set to launch from Blue Origin’s New Glenn rocket, the Rocket Lab spacecraft will study the solar wind and how the solar wind interacts with Mars’ magnetic environment and how this interaction drives the planet’s atmospheric escape.",
+            "keywords": [
+              "ESCAPADE",
+              "Mars",
+              "Launch Services Program",
+              "LSP",
+              "U.C. Berkeley",
+              "Rocket Lab",
+              "Blue Origin",
+              "New Glenn",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "magnetosphere",
+              "solar wind",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "twin satellites",
+              "Astrotech Space Operations"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240818-PH-NLP01_0001",
+            "photographer": "NASA/Norman Phelps",
+            "title": "ESCAPADE Unloading",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240818-PH-NLP01_0001/KSC-20240818-PH-NLP01_0001~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240818-PH-NLP01_0003/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-18T00:00:00Z",
+            "description": "Two small spacecrafts satellites that make up NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) mission to Mars arrived at Astrotech Space Operations in Titusville, near NASA’s Kennedy Space Center in Florida on Sunday, Aug. 19, 2024. Set to launch from Blue Origin’s New Glenn rocket, the Rocket Lab spacecraft will study the solar wind and how the solar wind interacts with Mars’ magnetic environment and how this interaction drives the planet’s atmospheric escape.",
+            "keywords": [
+              "ESCAPADE",
+              "Mars",
+              "Launch Services Program",
+              "LSP",
+              "U.C. Berkeley",
+              "Rocket Lab",
+              "Blue Origin",
+              "New Glenn",
+              "Escape and Plasma Acceleration and Dynamics Explorers",
+              "magnetosphere",
+              "solar wind",
+              "Small Innovative Missions for Planetary Exploration (SIMPLEx)",
+              "twin satellites",
+              "Astrotech Space Operations"
+            ],
+            "location": "Astrotech Space Operations",
+            "media_type": "image",
+            "nasa_id": "KSC-20240818-PH-NLP01_0003",
+            "photographer": "NASA/Norman Phelps",
+            "title": "ESCAPADE Unloading",
+            "album": ["Blue_Origin_ESCAPADE"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240818-PH-NLP01_0003/KSC-20240818-PH-NLP01_0003~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0085/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "Technicians test the system to deploy NASA’s Europa Clipper spacecraft solar arrays, which uses “thermal knives” to cut the restraints holding the solar arrays in place inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida on Wednesday, Aug. 21, 2024. The Europa Clipper spacecraft will travel to Jupiter’s icy moon to determine its potential to support life. After launch the thermal knives will cut the restraints, allowing the solar arrays to deploy and collect sunlight to power the spacecraft as it begins its journey to investigate Europa.",
+            "keywords": [
+              "Jupiter",
+              "National Aeronautical and Space Administration",
+              "Kennedy Space Center",
+              "NASA",
+              "Europa",
+              "Europa Clipper",
+              "moon",
+              "Johns Hopkins University Applied Physics Laboratory (APL)",
+              "Jet Propulsion Lab",
+              "LSP",
+              "internal ocean",
+              "icy moon",
+              "KSC",
+              "JPL"
+            ],
+            "location": "Payload Hazardous Servicing Faci",
+            "media_type": "image",
+            "nasa_id": "KSC-20240821-PH-FMX01_0085",
+            "photographer": "NASA/Frank Michaux",
+            "title": "Europa Clipper Solar Array Wing Deployment (Second Wing)",
+            "album": ["SpaceX_Europa_Clipper"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0085/KSC-20240821-PH-FMX01_0085~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0034/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "Technicians test the system to deploy NASA’s Europa Clipper spacecraft solar arrays, which uses “thermal knives” to cut the restraints holding the solar arrays in place inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida on Wednesday, Aug. 21, 2024. The Europa Clipper spacecraft will travel to Jupiter’s icy moon to determine its potential to support life. After launch the thermal knives will cut the restraints, allowing the solar arrays to deploy and collect sunlight to power the spacecraft as it begins its journey to investigate Europa.",
+            "keywords": [
+              "Jupiter",
+              "National Aeronautical and Space Administration",
+              "Kennedy Space Center",
+              "NASA",
+              "Europa",
+              "Europa Clipper",
+              "moon",
+              "Johns Hopkins University Applied Physics Laboratory (APL)",
+              "Jet Propulsion Lab",
+              "LSP",
+              "internal ocean",
+              "icy moon",
+              "KSC",
+              "JPL"
+            ],
+            "location": "Payload Hazardous Servicing Faci",
+            "media_type": "image",
+            "nasa_id": "KSC-20240821-PH-FMX01_0034",
+            "photographer": "NASA/Frank Michaux",
+            "title": "Europa Clipper Solar Array Wing Deployment (Second Wing)",
+            "album": ["SpaceX_Europa_Clipper"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0034/KSC-20240821-PH-FMX01_0034~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0105/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "Technicians test the system to deploy NASA’s Europa Clipper spacecraft solar arrays, which uses “thermal knives” to cut the restraints holding the solar arrays in place inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida on Wednesday, Aug. 21, 2024. The Europa Clipper spacecraft will travel to Jupiter’s icy moon to determine its potential to support life. After launch the thermal knives will cut the restraints, allowing the solar arrays to deploy and collect sunlight to power the spacecraft as it begins its journey to investigate Europa.",
+            "keywords": [
+              "Jupiter",
+              "National Aeronautical and Space Administration",
+              "Kennedy Space Center",
+              "NASA",
+              "Europa",
+              "Europa Clipper",
+              "moon",
+              "Johns Hopkins University Applied Physics Laboratory (APL)",
+              "Jet Propulsion Lab",
+              "LSP",
+              "internal ocean",
+              "icy moon",
+              "KSC",
+              "JPL"
+            ],
+            "location": "Payload Hazardous Servicing Faci",
+            "media_type": "image",
+            "nasa_id": "KSC-20240821-PH-FMX01_0105",
+            "photographer": "NASA/Frank Michaux",
+            "title": "Europa Clipper Solar Array Wing Deployment (Second Wing)",
+            "album": ["SpaceX_Europa_Clipper"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0105/KSC-20240821-PH-FMX01_0105~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0059/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "Technicians test the system to deploy NASA’s Europa Clipper spacecraft solar arrays, which uses “thermal knives” to cut the restraints holding the solar arrays in place inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida on Wednesday, Aug. 21, 2024. The Europa Clipper spacecraft will travel to Jupiter’s icy moon to determine its potential to support life. After launch the thermal knives will cut the restraints, allowing the solar arrays to deploy and collect sunlight to power the spacecraft as it begins its journey to investigate Europa.",
+            "keywords": [
+              "Jupiter",
+              "National Aeronautical and Space Administration",
+              "Kennedy Space Center",
+              "NASA",
+              "Europa",
+              "Europa Clipper",
+              "moon",
+              "Johns Hopkins University Applied Physics Laboratory (APL)",
+              "Jet Propulsion Lab",
+              "LSP",
+              "internal ocean",
+              "icy moon",
+              "KSC",
+              "JPL"
+            ],
+            "location": "Payload Hazardous Servicing Faci",
+            "media_type": "image",
+            "nasa_id": "KSC-20240821-PH-FMX01_0059",
+            "photographer": "NASA/Frank Michaux",
+            "title": "Europa Clipper Solar Array Wing Deployment (Second Wing)",
+            "album": ["SpaceX_Europa_Clipper"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0059/KSC-20240821-PH-FMX01_0059~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0092/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "Technicians test the system to deploy NASA’s Europa Clipper spacecraft solar arrays, which uses “thermal knives” to cut the restraints holding the solar arrays in place inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida on Wednesday, Aug. 21, 2024. The Europa Clipper spacecraft will travel to Jupiter’s icy moon to determine its potential to support life. After launch the thermal knives will cut the restraints, allowing the solar arrays to deploy and collect sunlight to power the spacecraft as it begins its journey to investigate Europa.",
+            "keywords": [
+              "Jupiter",
+              "National Aeronautical and Space Administration",
+              "Kennedy Space Center",
+              "NASA",
+              "Europa",
+              "Europa Clipper",
+              "moon",
+              "Johns Hopkins University Applied Physics Laboratory (APL)",
+              "Jet Propulsion Lab",
+              "LSP",
+              "internal ocean",
+              "icy moon",
+              "KSC",
+              "JPL"
+            ],
+            "location": "Payload Hazardous Servicing Faci",
+            "media_type": "image",
+            "nasa_id": "KSC-20240821-PH-FMX01_0092",
+            "photographer": "NASA/Frank Michaux",
+            "title": "Europa Clipper Solar Array Wing Deployment (Second Wing)",
+            "album": ["SpaceX_Europa_Clipper"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0092/KSC-20240821-PH-FMX01_0092~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0016/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "Technicians test the system to deploy NASA’s Europa Clipper spacecraft solar arrays, which uses “thermal knives” to cut the restraints holding the solar arrays in place inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida on Wednesday, Aug. 21, 2024. The Europa Clipper spacecraft will travel to Jupiter’s icy moon to determine its potential to support life. After launch the thermal knives will cut the restraints, allowing the solar arrays to deploy and collect sunlight to power the spacecraft as it begins its journey to investigate Europa.",
+            "keywords": [
+              "Jupiter",
+              "National Aeronautical and Space Administration",
+              "Kennedy Space Center",
+              "NASA",
+              "Europa",
+              "Europa Clipper",
+              "moon",
+              "Johns Hopkins University Applied Physics Laboratory (APL)",
+              "Jet Propulsion Lab",
+              "LSP",
+              "internal ocean",
+              "icy moon",
+              "KSC",
+              "JPL"
+            ],
+            "location": "Payload Hazardous Servicing Faci",
+            "media_type": "image",
+            "nasa_id": "KSC-20240821-PH-FMX01_0016",
+            "photographer": "NASA/Frank Michaux",
+            "title": "Europa Clipper Solar Array Wing Deployment (Second Wing)",
+            "album": ["SpaceX_Europa_Clipper"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0016/KSC-20240821-PH-FMX01_0016~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0064/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "Technicians test the system to deploy NASA’s Europa Clipper spacecraft solar arrays, which uses “thermal knives” to cut the restraints holding the solar arrays in place inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida on Wednesday, Aug. 21, 2024. The Europa Clipper spacecraft will travel to Jupiter’s icy moon to determine its potential to support life. After launch the thermal knives will cut the restraints, allowing the solar arrays to deploy and collect sunlight to power the spacecraft as it begins its journey to investigate Europa.",
+            "keywords": [
+              "Jupiter",
+              "National Aeronautical and Space Administration",
+              "Kennedy Space Center",
+              "NASA",
+              "Europa",
+              "Europa Clipper",
+              "moon",
+              "Johns Hopkins University Applied Physics Laboratory (APL)",
+              "Jet Propulsion Lab",
+              "LSP",
+              "internal ocean",
+              "icy moon",
+              "KSC",
+              "JPL"
+            ],
+            "location": "Payload Hazardous Servicing Faci",
+            "media_type": "image",
+            "nasa_id": "KSC-20240821-PH-FMX01_0064",
+            "photographer": "NASA/Frank Michaux",
+            "title": "Europa Clipper Solar Array Wing Deployment (Second Wing)",
+            "album": ["SpaceX_Europa_Clipper"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0064/KSC-20240821-PH-FMX01_0064~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0039/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "Technicians test the system to deploy NASA’s Europa Clipper spacecraft solar arrays, which uses “thermal knives” to cut the restraints holding the solar arrays in place inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida on Wednesday, Aug. 21, 2024. The Europa Clipper spacecraft will travel to Jupiter’s icy moon to determine its potential to support life. After launch the thermal knives will cut the restraints, allowing the solar arrays to deploy and collect sunlight to power the spacecraft as it begins its journey to investigate Europa.",
+            "keywords": [
+              "Jupiter",
+              "National Aeronautical and Space Administration",
+              "Kennedy Space Center",
+              "NASA",
+              "Europa",
+              "Europa Clipper",
+              "moon",
+              "Johns Hopkins University Applied Physics Laboratory (APL)",
+              "Jet Propulsion Lab",
+              "LSP",
+              "internal ocean",
+              "icy moon",
+              "KSC",
+              "JPL"
+            ],
+            "location": "Payload Hazardous Servicing Faci",
+            "media_type": "image",
+            "nasa_id": "KSC-20240821-PH-FMX01_0039",
+            "photographer": "NASA/Frank Michaux",
+            "title": "Europa Clipper Solar Array Wing Deployment (Second Wing)",
+            "album": ["SpaceX_Europa_Clipper"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0039/KSC-20240821-PH-FMX01_0039~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0002/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "Technicians test the system to deploy NASA’s Europa Clipper spacecraft solar arrays, which uses “thermal knives” to cut the restraints holding the solar arrays in place inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida on Wednesday, Aug. 21, 2024. The Europa Clipper spacecraft will travel to Jupiter’s icy moon to determine its potential to support life. After launch the thermal knives will cut the restraints, allowing the solar arrays to deploy and collect sunlight to power the spacecraft as it begins its journey to investigate Europa.",
+            "keywords": [
+              "Jupiter",
+              "National Aeronautical and Space Administration",
+              "Kennedy Space Center",
+              "NASA",
+              "Europa",
+              "Europa Clipper",
+              "moon",
+              "Johns Hopkins University Applied Physics Laboratory (APL)",
+              "Jet Propulsion Lab",
+              "LSP",
+              "internal ocean",
+              "icy moon",
+              "KSC",
+              "JPL"
+            ],
+            "location": "Payload Hazardous Servicing Faci",
+            "media_type": "image",
+            "nasa_id": "KSC-20240821-PH-FMX01_0002",
+            "photographer": "NASA/Frank Michaux",
+            "title": "Europa Clipper Solar Array Wing Deployment (Second Wing)",
+            "album": ["SpaceX_Europa_Clipper"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0002/KSC-20240821-PH-FMX01_0002~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0051/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "Technicians test the system to deploy NASA’s Europa Clipper spacecraft solar arrays, which uses “thermal knives” to cut the restraints holding the solar arrays in place inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida on Wednesday, Aug. 21, 2024. The Europa Clipper spacecraft will travel to Jupiter’s icy moon to determine its potential to support life. After launch the thermal knives will cut the restraints, allowing the solar arrays to deploy and collect sunlight to power the spacecraft as it begins its journey to investigate Europa.",
+            "keywords": [
+              "Jupiter",
+              "National Aeronautical and Space Administration",
+              "Kennedy Space Center",
+              "NASA",
+              "Europa",
+              "Europa Clipper",
+              "moon",
+              "Johns Hopkins University Applied Physics Laboratory (APL)",
+              "Jet Propulsion Lab",
+              "LSP",
+              "internal ocean",
+              "icy moon",
+              "KSC",
+              "JPL"
+            ],
+            "location": "Payload Hazardous Servicing Faci",
+            "media_type": "image",
+            "nasa_id": "KSC-20240821-PH-FMX01_0051",
+            "photographer": "NASA/Frank Michaux",
+            "title": "Europa Clipper Solar Array Wing Deployment (Second Wing)",
+            "album": ["SpaceX_Europa_Clipper"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240821-PH-FMX01_0051/KSC-20240821-PH-FMX01_0051~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240005/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "NASA Science Mission Directorate Program Executive Rosa Avalos-Warren delivers remarks during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240005",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240005/NHQ202408240005~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240009/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "NASA Science Mission Directorate Astrophysicist Dominic Bedford, right, delivers remarks during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240009",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240009/NHQ202408240009~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240004/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "NASA Science Mission Directorate Program Executive Rosa Avalos-Warren, left, delivers remarks during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240004",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240004/NHQ202408240004~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240014/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "Guests ask questions following presentations by NASA Science Mission Directorate Program Executive Rosa Avalos-Warren and NASA Science Mission Directorate Astrophysicist Dominic Bedford during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240014",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240014/NHQ202408240014~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240002/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "NASA Science Mission Directorate Astrophysicist Dominic Bedford, right, delivers remarks during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240002",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240002/NHQ202408240002~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240013/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "Guests ask questions following presentations by NASA Science Mission Directorate Program Executive Rosa Avalos-Warren and NASA Science Mission Directorate Astrophysicist Dominic Bedford during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240013",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240013/NHQ202408240013~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240012/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "Guests ask questions following presentations by NASA Science Mission Directorate Program Executive Rosa Avalos-Warren and NASA Science Mission Directorate Astrophysicist Dominic Bedford during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240012",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240012/NHQ202408240012~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240001/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "NASA Office of Communications Agency Lead Lisa Frazier, center, introduces NASA Science Mission Directorate Program Executive Rosa Avalos-Warren, left, and NASA Science Mission Directorate Astrophysicist Dominic Bedford, right, prior to their presentations during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "Lisa Frazier",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240001",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240001/NHQ202408240001~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240008/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "Guests are seen during presentations by  NASA Science Mission Directorate Program Executive Rosa Avalos-Warren and NASA Science Mission Directorate Astrophysicist Dominic Bedford during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240008",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240008/NHQ202408240008~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240007/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "NASA Science Mission Directorate Program Executive Rosa Avalos-Warren delivers remarks during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240007",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240007/NHQ202408240007~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240010/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "NASA Science Mission Directorate Astrophysicist Dominic Bedford, right, delivers remarks during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240010",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240010/NHQ202408240010~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240011/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "NASA Science Mission Directorate Astrophysicist Dominic Bedford, right, delivers remarks during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240011",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240011/NHQ202408240011~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240003/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "NASA Science Mission Directorate Program Executive Rosa Avalos-Warren delivers remarks during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240003",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240003/NHQ202408240003~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240006/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "NASA Science Mission Directorate Program Executive Rosa Avalos-Warren delivers remarks during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240006",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240006/NHQ202408240006~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/NHQ202408240015/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "Guests receive educational materials following presentations by NASA Science Mission Directorate Program Executive Rosa Avalos-Warren and NASA Science Mission Directorate Astrophysicist Dominic Bedford during the Library of Congress National Book Festival Saturday, Aug. 24, 2024, at the Walter E. Washington Convention Center in Washington. Photo Credit: (NASA/Keegan Barber)",
+            "keywords": [
+              "DC",
+              "Dominic Benford",
+              "Library of Congress",
+              "National Book Festival",
+              "Rosa Avalos-Warren",
+              "Science Mission Directorate",
+              "Walter E. Washington Convention Center",
+              "Washington"
+            ],
+            "location": "Mary W. Jackson NASA Headquarter",
+            "media_type": "image",
+            "nasa_id": "NHQ202408240015",
+            "photographer": "NASA/Keegan Barber",
+            "title": "NASA Space Stories at National Book Festival",
+            "album": ["20240824_national_book_festival"]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/NHQ202408240015/NHQ202408240015~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/video/iss071m262371711_NASA_Boeing_Crew_Flight_test_Status_News_Conference_240824/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-24T00:00:00Z",
+            "description": "On Saturday, August 24, NASA leadership including Administrator Bill Nelson; NASA Associate Administrator Jim Free; Ken Bowersox, associate administrator, NASA’s Space Operations Mission Directorate; Steve Stich, manager, NASA’s Commercial Crew Program; Dana Weigel, manager, NASA’s International Space Station; and Norm Knight, director, NASA’s Flight Operations Directorate discussed the latest status update on the agency's Crew Flight Test, or CFT, and plans to return the spacecraft to Earth. CFT is the first flight of humans aboard Boeing's Starliner spacecraft, which carried NASA astronauts Butch Wilmore and Suni Williams to the International Space Station after launching atop ULA's Atlas V rocket on June 6, 2024.  Join NASA as we go forward to the Moon and on to Mars -- discover the latest on Earth, the Solar System and beyond with a weekly update in your inbox.  Subscribe at: https://www.nasa.gov/subscribe ",
+            "keywords": [
+              "Boeing Crew Flight Test Status News Conference",
+              "Boeing",
+              "CFT",
+              "Starliner"
+            ],
+            "media_type": "video",
+            "nasa_id": "iss071m262371711_NASA_Boeing_Crew_Flight_test_Status_News_Conference_240824",
+            "title": "NASA Boeing Crew Flight Test Status News Conference – Saturday, August 24, 2024 "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/video/iss071m262371711_NASA_Boeing_Crew_Flight_test_Status_News_Conference_240824/iss071m262371711_NASA_Boeing_Crew_Flight_test_Status_News_Conference_240824~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          },
+          {
+            "href": "https://images-assets.nasa.gov/video/iss071m262371711_NASA_Boeing_Crew_Flight_test_Status_News_Conference_240824/iss071m262371711_NASA_Boeing_Crew_Flight_test_Status_News_Conference_240824.srt",
+            "rel": "captions"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/MSFC_08212024_Pegasus Barge in Decatur-2/collection.json",
+        "data": [
+          {
+            "center": "MSFC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s Pegasus barge, ferrying the launch vehicle stage adapter for NASA’s SLS (Space Launch System) rocket, departed the agency’s Marshall Space Flight Center in Huntsville, Alabama, Aug. 21, passing through nearby Decatur. The cone-shaped adapter is part of the SLS rocket that will power Artemis II mission, the first crewed flight of the agency’s Artemis campaign. The barge will stop briefly at NASA’s Michoud Assembly Facility in New Orleans to pick up additional hardware elements for Artemis III and Artemis IV before heading to the agency’s Kennedy Space Center in Florida, where the adapter will be readied for stacking and launch preparations. ",
+            "description_508": "NASA’s Pegasus barge, ferrying the launch vehicle stage adapter for NASA’s SLS (Space Launch System) rocket, departed the agency’s Marshall Space Flight Center in Huntsville, Alabama, Aug. 21, passing through nearby Decatur. The cone-shaped adapter is part of the SLS rocket that will power Artemis II mission, the first crewed flight of the agency’s Artemis campaign. The barge will stop briefly at NASA’s Michoud Assembly Facility in New Orleans to pick up additional hardware elements for Artemis III and Artemis IV before heading to the agency’s Kennedy Space Center in Florida, where the adapter will be readied for stacking and launch preparations. ",
+            "keywords": [
+              "NASA",
+              "Marshall Space Flight Center",
+              "SLS",
+              "Space Launch System",
+              "Artemis",
+              "Artemis II",
+              "launch vehicle stage adapter",
+              "core stage"
+            ],
+            "location": "NASA Marshall Space Flight Center",
+            "media_type": "image",
+            "nasa_id": "MSFC_08212024_Pegasus Barge in Decatur-2",
+            "photographer": "Brandon Hancock",
+            "title": "NASA Barge Departs Marshall with Artemis II Rocket Hardware ",
+            "album": [
+              "Artemis_II",
+              "MSFC_Artemis_II_Launch_Vehicle_Stage_Adapter"
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/MSFC_08212024_Pegasus Barge in Decatur-2/MSFC_08212024_Pegasus Barge in Decatur-2~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/MSFC_08212024_Pegasus Barge in Decatur-1/collection.json",
+        "data": [
+          {
+            "center": "MSFC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "NASA’s Pegasus barge, ferrying the launch vehicle stage adapter for NASA’s SLS (Space Launch System) rocket, departed the agency’s Marshall Space Flight Center in Huntsville, Alabama, Aug. 21, passing through nearby Decatur. The cone-shaped adapter is part of the SLS rocket that will power Artemis II mission, the first crewed flight of the agency’s Artemis campaign. The barge will stop briefly at NASA’s Michoud Assembly Facility in New Orleans to pick up additional hardware elements for Artemis III and Artemis IV before heading to the agency’s Kennedy Space Center in Florida, where the adapter will be readied for stacking and launch preparations. ",
+            "description_508": "NASA’s Pegasus barge, ferrying the launch vehicle stage adapter for NASA’s SLS (Space Launch System) rocket, departed the agency’s Marshall Space Flight Center in Huntsville, Alabama, Aug. 21, passing through nearby Decatur. The cone-shaped adapter is part of the SLS rocket that will power Artemis II mission, the first crewed flight of the agency’s Artemis campaign. The barge will stop briefly at NASA’s Michoud Assembly Facility in New Orleans to pick up additional hardware elements for Artemis III and Artemis IV before heading to the agency’s Kennedy Space Center in Florida, where the adapter will be readied for stacking and launch preparations. ",
+            "keywords": [
+              "NASA",
+              "Marshall Space Flight Center",
+              "SLS",
+              "Space Launch System",
+              "Artemis",
+              "Artemis II",
+              "launch vehicle stage adapter",
+              "core stage"
+            ],
+            "location": "NASA Marshall Space Flight Center",
+            "media_type": "image",
+            "nasa_id": "MSFC_08212024_Pegasus Barge in Decatur-1",
+            "photographer": "Brandon Hancock",
+            "title": "NASA Barge Departs Marshall with Artemis II Rocket Hardware ",
+            "album": [
+              "Artemis_II",
+              "MSFC_Artemis_II_Launch_Vehicle_Stage_Adapter"
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/MSFC_08212024_Pegasus Barge in Decatur-1/MSFC_08212024_Pegasus Barge in Decatur-1~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/MSFC_08212024_LVSA II Move to Pegasus_3/collection.json",
+        "data": [
+          {
+            "center": "MSFC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "NASA rolled out a key piece of space flight hardware for the SLS (Space Launch System) rocket for the first crewed mission of NASA’s Artemis campaign from Marshall Space Flight Center in Huntsville, Alabama, on Wednesday, Aug. 21 for shipment to the agency’s spaceport in Florida. The cone-shaped launch vehicle stage adapter connects the rocket’s core stage to the upper stage and helps protect the upper stage’s engine that will help propel the Artemis II test flight around the Moon, slated for 2025. Manufactured by prime contractor Teledyne Brown Engineering and the Jacobs Space Exploration Group’s ESSCA (Engineering Services and Science Capability Augmentation) contract using NASA Marshall’s self-reacting friction-stir robotic and vertical weld tools. Crews moved the adapter out of NASA Marshall’s Building 4708 to the agency’s Pegasus barge Aug. 21. The barge will ferry the adapter first to NASA’s Michoud Assembly Facility in New Orleans, where crews will pick up additional SLS hardware for future Artemis missions, before traveling to NASA Kennedy. Once in Florida, the adapter will join the recently delivered core stage. There, teams with NASA’s Exploration Ground Systems will prepare the adapter for stacking and launch",
+            "description_508": "These images and videos show NASA rolling out a key piece of space flight hardware for the SLS (Space Launch System) rocket for the first crewed mission of NASA’s Artemis campaign from Marshall Space Flight Center in Huntsville, Alabama, on Wednesday, Aug. 21 for shipment to the agency’s spaceport in Florida. The cone-shaped launch vehicle stage adapter connects the rocket’s core stage to the upper stage and helps protect the upper stage’s engine that will help propel the Artemis II test flight around the Moon, slated for 2025. Manufactured by prime contractor Teledyne Brown Engineering and the Jacobs Space Exploration Group’s ESSCA (Engineering Services and Science Capability Augmentation) contract using NASA Marshall’s self-reacting friction-stir robotic and vertical weld tools. Crews moved the adapter out of NASA Marshall’s Building 4708 to the agency’s Pegasus barge Aug. 21. The barge will ferry the adapter first to NASA’s Michoud Assembly Facility in New Orleans, where crews will pick up additional SLS hardware for future Artemis missions, before traveling to NASA Kennedy. Once in Florida, the adapter will join the recently delivered core stage. There, teams with NASA’s Exploration Ground Systems will prepare the adapter for stacking and launch.",
+            "keywords": [
+              "SLS",
+              "Space Launch System",
+              "MSFC",
+              "Marshall Space Flight Center",
+              "NASA",
+              "Artemis II",
+              "Launch Vehicle Stage Adapter",
+              "LVSA",
+              "Alabama",
+              "Pegasus",
+              "Huntsville",
+              "Adpater",
+              "Moon",
+              "Mars"
+            ],
+            "location": "NASA Marshall Space Flight Center",
+            "media_type": "image",
+            "nasa_id": "MSFC_08212024_LVSA II Move to Pegasus_3",
+            "photographer": "Sam Lott",
+            "title": "Launch Vehicle Stage Adapter for Artemis II Moved, Prepped for Shipment",
+            "album": [
+              "MSFC_Artemis_II_Launch_Vehicle_Stage_Adapter",
+              "Artemis_II",
+              "Space_Launch_System"
+            ]
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/MSFC_08212024_LVSA II Move to Pegasus_3/MSFC_08212024_LVSA II Move to Pegasus_3~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e506350/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-07-31T00:00:00Z",
+            "description": "iss071e506350 (July 31, 2024) --- The Aurora Australis silhouettes the Canadarm2 robotic arm in this photograph from the International Space Station as it soared 272 miles above the Indian Ocean halfway between Australia and Antarctica.",
+            "description_508": "757J0353.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e506350",
+            "title": "iss071e506350"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e506350/iss071e506350~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e523250/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "iss071e523250 (Aug. 21, 2024) --- Roscosmos cosmonaut and Expedition 71 Flight Engineer Alexander Grebenkin works on transferring water from resupply tanks to life support systems aboard the International Space Station's Destiny laboratory module",
+            "description_508": "739C0054.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e523250",
+            "title": "iss071e523250"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e523250/iss071e523250~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e522256/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "iss071e522256 (Aug. 21, 2024) --- NASA astronaut and Expedition 71 Flight Engineer Matthew Dominick checks CubeSat configurations packed inside launch cases installed in the Kibo laboratory module's Small Satellite Orbital Deployer.",
+            "description_508": "738G6810.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e522256",
+            "title": "iss071e522256"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e522256/iss071e522256~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e523521/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "iss071e523521 (Aug. 21, 2024) --- Brazil's Single Island Dam (top) leads into the Paranaiba River which splits into the Rio Grande that leads into the Red Water Dam. The International Space Station was orbiting 260 miles above the South American nation at the time of this photograph.",
+            "description_508": "D4_2071158_20240821T175421_R_2024-08-21 17-54-26.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e523521",
+            "title": "iss071e523521"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e523521/iss071e523521~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e522745/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-19T00:00:00Z",
+            "description": "iss071e522745 (Aug. 19, 2024) --- NASA astronaut and Expedition 71 Flight Engineer Mike Barratt swaps sample cartridges inside the Materials Science Laboratory (MSL), a research furnace facilitating discoveries of new and improved materials as well as new uses for existing materials such as metals, alloys, polymers, and more. The MSL is located inside the International Space Station's Destiny laboratory module.",
+            "description_508": "736B9933.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e522745",
+            "title": "iss071e522745"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e522745/iss071e522745~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e523308/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "iss071e523308 (Aug. 21, 2024) --- NASA astronaut and Commander for Boeing's Crew Flight Test Butch Wilmore checks CubeSat configurations packed inside launch cases installed in the Kibo laboratory module's Small Satellite Orbital Deployer.",
+            "description_508": "739C0112.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e523308",
+            "title": "iss071e523308"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e523308/iss071e523308~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e523326/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-21T00:00:00Z",
+            "description": "iss071e523326 (Aug. 21, 2024) --- NASA astronauts (from left) Suni Williams, Pilot for Boeing's Crew Flight Test, and Jeanette Epps, Expedition 71 Flight Engineer, configure the Metal 3D printer inside the Columbus laboratory module. They retrieved an experimental sample printed with stainless steel, replaced a substrate in the advanced manufacturing hardware, then reinstalled the 3D printer back in Columbus' European Drawer Rack-2. Researchers are exploring how the Metal 3D printer operates in the microgravity conditions of weightlessness and radiation as well as its ability to manufacture tools and parts on demand during space missions.",
+            "description_508": "739C0130.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e523326",
+            "title": "iss071e523326"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e523326/iss071e523326~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/iss071e523780/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "2024-08-22T00:00:00Z",
+            "description": "iss071e523780 (Aug. 22, 2024) --- This long-duration photograph taken with a station camera uses increased sensitivity and shows the Northrop Grumman Cygnus space freighter firing its engine to raise the International Space Station's orbital altitude. The reboosts counteract atmospheric drag and prepare for the space station upcoming spacecraft activities. The orbital outpost was soaring 263 miles above the Indian Ocean with a field of star trails above and the Aurora Australis below.",
+            "description_508": "D4_2071157_20240822T173605_R_2024-08-22 17-36-23.NEF",
+            "media_type": "image",
+            "nasa_id": "iss071e523780",
+            "title": "iss071e523780"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/iss071e523780/iss071e523780~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240819-PH-JBS01_0022/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-19T00:00:00Z",
+            "description": "A super blue Moon rises above Kennedy Space Center in Florida on Monday, Aug. 18, 2024. Although not actually appearing blue, as the third full Moon in a season with four full Moons, this is called a “blue” Moon. The Moon at or near its closest point to Earth is a “super” Moon and can appear up to 14% bigger and brighter than normal full Moons. About 25% of all full Moons are super, but only 3% of full Moons are blue, with the next super blue Moons occurring as a pair in January and March 2037.",
+            "keywords": ["Creative Photography", "Full Blue Moon"],
+            "location": "KSC / CCSFS",
+            "media_type": "image",
+            "nasa_id": "KSC-20240819-PH-JBS01_0022",
+            "photographer": "NASA/Ben Smegelsky",
+            "title": "Creative Photography - Full Blue Moon"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240819-PH-JBS01_0022/KSC-20240819-PH-JBS01_0022~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/KSC-20240819-PH-JBS01_0009/collection.json",
+        "data": [
+          {
+            "center": "KSC",
+            "date_created": "2024-08-19T00:00:00Z",
+            "description": "A super blue Moon rises above Kennedy Space Center in Florida on Monday, Aug. 18, 2024. Although not actually appearing blue, as the third full Moon in a season with four full Moons, this is called a “blue” Moon. The Moon at or near its closest point to Earth is a “super” Moon and can appear up to 14% bigger and brighter than normal full Moons. About 25% of all full Moons are super, but only 3% of full Moons are blue, with the next super blue Moons occurring as a pair in January and March 2037.",
+            "keywords": ["Creative Photography", "Full Blue Moon"],
+            "location": "KSC / CCSFS",
+            "media_type": "image",
+            "nasa_id": "KSC-20240819-PH-JBS01_0009",
+            "photographer": "NASA/Ben Smegelsky",
+            "title": "Creative Photography - Full Blue Moon"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/KSC-20240819-PH-JBS01_0009/KSC-20240819-PH-JBS01_0009~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      }
+    ]
+  }
+}
