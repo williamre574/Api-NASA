@@ -1,12 +1,14 @@
 import { Component, OnInit } from '@angular/core';
 import { ServiceNasaService } from 'src/app/services/service-nasa.service';
-
+import { Subject } from 'rxjs';
+import { takeUntil } from 'rxjs/operators';
 @Component({
   selector: 'app-dashboard',
   templateUrl: './dashboard.component.html',
   styleUrls: ['./dashboard.component.css']
 })
 export class DashboardComponent implements OnInit {
+  private destroy$ = new Subject<void>();
   value: string;
   results: any[] = [];
   filteredResults: any[] = [];
@@ -22,6 +24,11 @@ export class DashboardComponent implements OnInit {
     this.value = "";
     this.searchTerm = ""; // Valor predeterminado para la búsqueda inicial
     this.search();
+  }
+   // Completa el Subject para cancelar las suscripciones
+  ngOnDestroy(): void {
+    this.destroy$.next();
+    this.destroy$.complete();
   }
   validateYearInputs(): boolean {
     // Si uno de los campos de año está vacío y el otro tiene un valor, retorna false
@@ -42,21 +49,20 @@ export class DashboardComponent implements OnInit {
     let mediaTypes = '';
     if (this.includeImages) mediaTypes += 'image,';
     if (this.includeVideos) mediaTypes += 'video';
-    mediaTypes = mediaTypes.endsWith(',') ? mediaTypes.slice(0, -1) : mediaTypes; // Elimina la coma final si es necesario
-
-    // Si no se selecciona ni imágenes ni videos, no incluir filtro de tipo de medio
+    mediaTypes = mediaTypes.endsWith(',') ? mediaTypes.slice(0, -1) : mediaTypes; 
     if (!this.includeImages && !this.includeVideos) {
       mediaTypes = '';
     }
-
-    this.NasaApi.search(this.searchTerm, this.yearStart!, this.yearEnd!, mediaTypes).subscribe({
+    this.NasaApi.search(this.searchTerm, this.yearStart!, this.yearEnd!, mediaTypes)
+    .pipe(takeUntil(this.destroy$))
+    .subscribe({
       next: (data: any) => {
         this.processResults(data.collection.items);
         this.results = data.collection.items;
 
-        // Si no se selecciona ni imágenes ni videos, mostrar todos los resultados
+        
         if (!this.includeImages && !this.includeVideos) {
-          this.filteredResults = this.results; // Mostrar todos los resultados sin filtrar
+          this.filteredResults = this.results; 
         } else {
           // Aplicar filtro en base a los checkboxes
           this.filteredResults = this.results.filter(item => {
@@ -65,7 +71,7 @@ export class DashboardComponent implements OnInit {
           });
         }
 
-        console.log(this.filteredResults); // Verifica los resultados filtrados
+        console.log(this.filteredResults); 
       },
       error: (err) => {
         console.error('Error durante la llamada a la API', err);
@@ -73,7 +79,9 @@ export class DashboardComponent implements OnInit {
     });
   }
   loadPopular(): void {
-    this.NasaApi.loadFromJson('../../../assets/popular.json').subscribe({
+    this.NasaApi.loadFromJson('../../../assets/popular.json')
+    .pipe(takeUntil(this.destroy$))
+    .subscribe({
       next: (data: any) => {
         console.log(data)
         this.processResults(data.collection.items);
@@ -96,7 +104,9 @@ export class DashboardComponent implements OnInit {
     });
   }
   loadRecent(): void {
-    this.NasaApi.loadFromJson('../../../assets/recent.json').subscribe({
+    this.NasaApi.loadFromJson('../../../assets/recent.json')
+    .pipe(takeUntil(this.destroy$))
+    .subscribe({
       next: (data: any) => {
         console.log(data)
         this.processResults(data.collection.items);
